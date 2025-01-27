@@ -2,7 +2,6 @@
 
 - 🔭 Currently studying at [MESWCOE](https://mescoe.mespune.org/)
 - 🌱 3rd Year Computer Engineering
-- 👯 Find out more details about my club [here](https://github.com/Avinya-co)
 - 🤔 Aspiring to be a blockchain developer in the future
   - 😎 So far created 4 projects implementing Solidity (much more to come😉)
 - 🧾 Check out my [portfolio](https://tanmaymachkar.github.io/resume-profile/)
@@ -30,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayMachkar&show_icons=true&locale=en" alt="TanmayMachkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayMachkar&" alt="TanmayMachkar" /></p>
+
