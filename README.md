@@ -19,9 +19,7 @@
 
 ## 👨‍💻🛠 Languages, Tools and Libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,tailwind,latex,java,solidity,python" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,express,typescript,pytorch,sklearn" />
-    <img src="https://skillicons.dev/icons?i=github,bash,ipfs,mongodb,mysql,postgres,postman,docker,aws,gcp,git,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,tailwind,latex,java,solidity,python,react,nextjs,nodejs,javascript,express,typescript,pytorch,sklearn,github,bash,ipfs,mongodb,mysql,postgres,postman,docker,aws,gcp,git,ubuntu" />
     <br>
 </div>
 <hr/>
