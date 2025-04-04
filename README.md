@@ -1,32 +1,36 @@
-### Howdy 👋
+<hr/>
 
-- 🔭 Currently studying at [MESWCOE](https://mescoe.mespune.org/)
-- 🌱 3rd Year Computer Engineering
-- 🤔 Aspiring to be a blockchain developer in the future
-  - 😎 So far created 4 projects implementing Solidity (much more to come😉)
+## 👋 Howdy
+- Currently studying at [MESWCOE](https://mescoe.mespune.org/)
+- 3rd Year Computer Engineering
+- Aspiring to be a blockchain and machine learning developer in the future
 - 🧾 Check out my [portfolio](https://tanmaymachkar.github.io/resume-profile/)
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I2eWlodzRsb2FyNGtmeGxmNGpsM2phN3E5YjB5dDdpaDRiaG1nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TanmayMachkar&label=Profile%20views&color=0e75b6&style=flat" alt="TanmayMachkar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **tanmaymacho@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tanmay-machkar-9369a0299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-machkar-9369a0299" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_tanmayyy12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanmayyy12" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/TanmayMachkar?tab=followers">
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TanmayMachkar?color=800080&labelColor=5A005A&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TanmayMachkar&style=for-the-badge&color=800080" alt="Profile Views" />
 </p>
+<hr/>
 
-<br></br>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_tanmayyy12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-machkar-9369a0299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmaymachkar9@gmail.com)
+<hr/>
 
-<br></br>
+## 👨‍💻🛠 Languages, Tools and Libraries
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,tailwind,latex,java,solidity,python" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,express,typescript,pytorch,sklearn" />
+    <img src="https://skillicons.dev/icons?i=github,bash,ipfs,mongodb,mysql,postgres,postman,docker,aws,gcp,git,ubuntu" />
+    <br>
+</div>
+<hr/>
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TanmayMachkar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanmayMachkar&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayMachkar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayMachkar&show_icons=true&locale=en&layout=compact" alt="TanmayMachkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayMachkar&show_icons=true&locale=en" alt="TanmayMachkar" /></p>
-
-
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanmayMachkar&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr/>
