@@ -2,7 +2,7 @@
 
 ## 👋 Howdy
 - Currently studying at [MESWCOE](https://mescoe.mespune.org/)
-- 3rd Year Computer Engineering
+- 4th Year Computer Engineering
 - Aspiring to be a blockchain and machine learning developer in the future
 - 🧾 Check out my [portfolio](https://tanmaymachkar.github.io/resume-profile/)
 
